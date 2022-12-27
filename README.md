@@ -39,6 +39,7 @@ See the [Deadlines and Submissions](https://coursepress.lnu.se/courses/web-intel
     <td>C-D</td>
     <td>
       <ul>
+        <li>The number of clusters must not be predetermined but instead chosen by the user.</li>
         <li>Instead of stopping after a specified number of iterations, you shall implement functionality for stopping when no new assignments are made.</li>
         <li>Each cluster must keep track of the previous assignment, and a check is made if the new cluster assignment matches the previous one.</li>
       </ul>
