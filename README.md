@@ -62,6 +62,14 @@ Welcome to the Blog Clustering Application! This project implements both **K-Mea
 
    *The application will start in development mode with hot reloading enabled.*
 
+   Alternatively, you can start the application using Docker:
+
+   ```bash
+   docker compose up
+   ```
+
+   This will create a containerized environment and run the application.
+
 ## Usage
 
 1. **Access the Application**
